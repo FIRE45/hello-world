@@ -1,2 +1,5 @@
 # hello-world
-Hello-world Repository
+
+I'm new for git hub.
+still learning.
+my country is uk.
